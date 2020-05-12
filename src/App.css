@@ -1,0 +1,17 @@
+body{
+  font-family: "Oswald",sans-serif !important;
+  background: #f3f3f3 !important;
+  color: #232528 !important;
+}
+.text-title{
+  font-family: "Permanent Marker", cursive;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+}
+.text-blue{
+  color:#2a2a72;
+
+}
+.text-bright{
+  color: #009ffd;
+}
